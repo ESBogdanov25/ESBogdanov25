@@ -76,9 +76,9 @@
 
   <br>
 
-  ![Grade](https://github-readme-stats.vercel.app/api?username=ESBogdanov20&show_icons=true&count_private=true)
+  ![Grade](https://github-readme-stats.vercel.app/api?username=ESBogdanov25&show_icons=true&theme=radical)
   
-  ![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ESBogdanov25&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=6")
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ESBogdanov25&layout=compact&theme=radical)
   
   <hr>
 </details>
