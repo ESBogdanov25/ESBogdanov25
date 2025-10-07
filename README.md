@@ -15,7 +15,7 @@
 <p align="left">I am an ICT Student at HZ University, passionate about full-stack development. </p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things. I believe that every day is a learning opportunity.
+- 🌱 I’m currently learning React.js. I believe that every day is a learning opportunity.
 - 💁‍♂️ Student at [HZ University](https://www.hz.nl/en) studying ICT.   
 - 💻 Working on personal projects and honing my skills.  
 - 📫 You can reach me via GitHub or email for collaboration or questions.
